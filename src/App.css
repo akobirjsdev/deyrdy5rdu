@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+body{
+  background-color: #533FF0;
+}
+
+.card{
+  background-color: white;
+  width: 529px;
+  height: 430px;
+  border-radius: 20px;
+  text-align: center;
+  margin: auto;
+  margin-top: 150px;
+  color: black;
+}
+
+button{
+  width: 190px;
+  height: 62px;
+  border-radius: 15px;
+  color: white;
+  background-color: #533FF0;
+  border: none;
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+h4{
+  padding-top: 20px;
+}
+
+p{
+  padding-top: 20px;
+}
+
+img{
+  padding-top: 20px;
+}
